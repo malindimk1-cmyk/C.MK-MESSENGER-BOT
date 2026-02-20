@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {61587256471304
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -12,29 +12,29 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "MK-BOT✨",
+  "nickNameBot": "Chucky-bot(^.^)",
   "prefix": "+",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61554168931047"
+    "100063239341269"
   ],
   "premiumUsers": [
-    "61554168931047"
+    "61587256471304"
   ],
   "devUsers": [
-    "61554168931047",
-    "61581930980314"
+    
+    "100063239341269"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "61554168931047"
+      "100063239341269",
+      "61587256471304"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
@@ -68,7 +68,7 @@
   "spamProtection": {
     "commandThreshold": 8,
     "timeWindow": 10,
-    "banDuration": 24,
+    "banDuration": 10,
     "notes": "Auto-ban threads when users spam commands."
   },
   "autoRestart": {
@@ -100,7 +100,7 @@
     "telegram": {
       "enable": false,
       "botToken": "",
-      "chatId": ""
+      "chatId": "true"
     },
     "discordHook": {
       "enable": false,
